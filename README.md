@@ -18,8 +18,6 @@ Go to the project directory
   cd Spring-Boot-Rest
 ```
 
-Install dependencies
-
 Start the server
 
 ```bash
